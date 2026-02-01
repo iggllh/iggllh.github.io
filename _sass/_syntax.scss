@@ -33,21 +33,10 @@ div.highlighter-rouge, figure.highlight {
   }
 }
 
-/*
-.highlighter-rouge{
-  background-color: #03228d;
-  color: white;
-  margin-bottom: 0em;
-  padding: 0em;
-  font-size: $type-size-7;
-  border: 0px solid $border-color;
-  border-radius: 0;
-}
-*/
 
-.highlighter-rouge {
-  background-color: #8d0202; /* 从蓝色 (#03228d) 改为深红色 */
-  color: white; /* 从白色改为浅红色文字 */
+.highlighter-rouge{
+  background-color: #8d0202;
+  color: white;
   margin-bottom: 0em;
   padding: 0em;
   font-size: $type-size;
